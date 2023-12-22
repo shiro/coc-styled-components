@@ -22,7 +22,7 @@
     "semi": true
   },
   "dependencies": {
-    "typescript-styled-plugin": "^0.18.0"
+    "@styled/typescript-styled-plugin": "1.0.1"
   },
   "devDependencies": {
     "coc.nvim": "^0.0.82",
@@ -69,7 +69,7 @@
     },
     "typescriptServerPlugins": [
       {
-        "name": "typescript-styled-plugin",
+        "name": "@styled/typescript-styled-plugin",
         "enableForWorkspaceTypeScriptVersions": true
       }
     ]
